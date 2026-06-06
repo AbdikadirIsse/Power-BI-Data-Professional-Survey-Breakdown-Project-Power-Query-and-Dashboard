@@ -1,6 +1,8 @@
 ## Power-BI-Data-Professional-Survey-Breakdown-Project-Power-Query-and-Dashboard
 A Power BI dashboard built on real survey data collected from over 600 data professionals across LinkedIn and other platforms. The project covers data transformation in Power Query and interactive dashboard creation.
 
+<img width="764" height="442" alt="Dashboard Image" src="https://github.com/user-attachments/assets/56d01c1f-f3dc-411c-bffe-8ef18d6a7336" />
+
 ## What the Project Covers
 
 - Splitting columns by delimiter to clean job titles and programming languages
