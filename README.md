@@ -11,16 +11,15 @@ A Power BI dashboard built on real survey data collected from over 600 data prof
 - Removing unnecessary columns to simplify the dataset
 - Building interactive visualisations and a themed dashboard
 
+## Dataset
+- Real survey data collected from data professionals. The dataset includes job titles, yearly salary ranges, favourite programming languages, industry, country, demographics and satisfaction ratings across multiple categories.
+- The raw CSV file is included in this repository - <a href="https://github.com/AbdikadirIsse/Power-BI-Data-Professional-Survey-Breakdown-Project-Power-Query-and-Dashboard/blob/main/Raw%20Data%20-%20Data%20Professionals.xlsx">Click here for the Excel Raw Dataset</a>
 
 ## Tools Used
 
 - Power BI Desktop
 - Power Query
 - DAX
-
-## Dataset
-- Real survey data collected from data professionals. The dataset includes job titles, yearly salary ranges, favourite programming languages, industry, country, demographics and satisfaction ratings across multiple categories.
-- The raw CSV file is included in this repository.
 
 ## Key Insights
 
